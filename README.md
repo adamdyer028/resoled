@@ -58,5 +58,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 For any inquiries or feedback, feel free to contact us at:
-- Email: resoledPotentialEmail@gmail.com
+- Email: ReSoledProject@gmail.com
 
